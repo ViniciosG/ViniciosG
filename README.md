@@ -3,7 +3,7 @@ Bem vindo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
 
 Olá, me chamo Vinicios Santana, sou um apaixonado por desenvolvimento de software e autodidata. Minha paixão é sonhar com ideias e torná-las realidade com interfaces representativas. Tenho muito cuidado com a experiência, arquitetura e qualidade nos código que construo.
 
-📈 My GitHub Stats
+📈 Meu Perfil
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ViniciosG&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 <br />
