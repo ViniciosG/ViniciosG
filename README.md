@@ -8,13 +8,13 @@ Olá, me chamo Vinicios Santana, sou um apaixonado por desenvolvimento de softwa
 <p align="center"> 
 <br />
 <br />
- <br />
-<br />
+
  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ViniciosG&show_icons=true&theme=gotham"  />
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="250" />
  
-
+ <br />
+<br />
   
 - 💬 Pergunte-me sobre qualquer coisa, fico feliz em ajudar;
 
