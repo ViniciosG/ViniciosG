@@ -10,7 +10,7 @@ Olá, me chamo Vinicios Santana, sou um apaixonado por desenvolvimento de softwa
 <br />
  <br />
 <br />
- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ViniciosG&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+ <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=ViniciosG&show_icons=true&theme=gotham"  />
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
  
@@ -25,7 +25,6 @@ Olá, me chamo Vinicios Santana, sou um apaixonado por desenvolvimento de softwa
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/python/python.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/git/git.png"></code>
 
